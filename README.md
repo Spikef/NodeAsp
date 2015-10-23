@@ -45,7 +45,7 @@ NodeAsp：http://nodeasp.com
 
 ### console ###
 
-兼容NodeJS的命令行调试工具。下载地址：http://download.nodeasp.com
+兼容NodeJS的命令行调试工具。下载地址：https://github.com/Spikef/NodeAsp-Console
 
 > NOTE: 需要IIS7.5和.NET4才能运行，其它环境未测试。
 
