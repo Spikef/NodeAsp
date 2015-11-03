@@ -1,9 +1,9 @@
 {
-  "name": "NodeAsp",
+  "name": "nodeasp",
   "version": "0.0.3",
   "author": "evio, Spikef",
   "homepage": "http://nodeasp.com",
-  "main": "bundle/nodeAsp.min.asp",
-  "repository": "https://github.com/cevio/NodeAsp",
+  "main": "nodeAsp.min.asp",
+  "repository": "https://github.com/Spikef/NodeAsp",
   "license": "MIT"
 }
