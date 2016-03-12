@@ -141,7 +141,7 @@ module.exports对象的引用，该对象被当前模块的所有实例所共享
 
 ## 控制台 ##
 
-为了更好的调试ASP程序，我们实现了类似NodeJS/Chrome浏览器的命令行调试工具。下载地址：http://download.nodeasp.com
+为了更好的调试ASP程序，我们实现了类似NodeJS/Chrome浏览器的命令行调试工具。下载地址：https://github.com/Spikef/NodeAsp-Console
 
 > NOTE: 需要IIS7.5和.NET4才能运行，其它环境未测试。
 
