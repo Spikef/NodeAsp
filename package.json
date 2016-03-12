@@ -1,6 +1,6 @@
 {
   "name": "nodeasp",
-  "version": "0.0.4",
+  "version": "0.1.14",
   "author": "evio, Spikef",
   "homepage": "http://nodeasp.com",
   "main": "nodeAsp.min.asp",
